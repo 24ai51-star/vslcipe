@@ -4,9 +4,9 @@
   "description": "Basic CI/CD project",
   "main": "index.js",
   "scripts": {
-    "build": "echo Build successful!"
+    "build": "echo Build failed! && exit 1"
   },
- "keywords": [],
+  "keywords": [],
   "author": "",
   "license": "ISC"
 }
