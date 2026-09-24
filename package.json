@@ -1,0 +1,15 @@
+{
+  "name": "my-cicd-project",
+  "version": "1.0.0",
+  "description": "Basic CI/CD project",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo Build successful!"
+  },
+ "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
+
+
